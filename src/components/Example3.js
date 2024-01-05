@@ -1,6 +1,5 @@
-// 49d32ab5190183a5185fd6d0dccf560a
 import React, { useEffect, useState } from "react";
-import "./Example.css"; // Assuming Example.css contains your CSS styles
+import "./Example.css"; 
 
 const Example3 = (props) => {
   const [Data, setData] = useState([]);
